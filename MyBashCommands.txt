@@ -5,3 +5,8 @@ touch config/config.app
 touch settings.json
 touch .gitignore
 touch src/index.html
+git add .
+git commit -m "this is my initial commit"
+git remote add origin <remote_repository_URL>
+git branch -m master main
+git push -u origin main
