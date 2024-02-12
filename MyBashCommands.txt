@@ -1,6 +1,6 @@
 mkdir GitBasicProject/
 git init
-mkdir -p cofig/src
+mkdir  cofig src
 touch config/config.app
 touch settings.json
 touch .gitignore
